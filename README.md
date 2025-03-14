@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Neocle">
-    <img src="https://komarev.com/ghpvc/?username=neocle&label=Profile%20views&color=blueviolet&style=flat" alt="neocle" />
+    <img src="https://komarev.com/ghpvc/?username=neocle&label=Profile%20views&color=green&style=flat" alt="neocle" />
   </a>
   <a href="https://github.com/Neocle">
     <img src="https://img.shields.io/github/followers/neocle?label=Followers" alt="neocle" />
