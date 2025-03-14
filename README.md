@@ -5,13 +5,15 @@
 I’m a 17 years old french student. I am passionated by video games and programming and I’ve always been curious about how things really work, from creating games to developing software. My goal is to learn new things and getting better at what I do. 💪💪
 
 ## 🔗 Connect with me:
-
+<a href="https://neocle.me"><img align="left" src="https://i.imgur.com/dsvR9pR.png" width="21px"/></a>
+<a href="https://instagram.com/lois.alr43"><img align="left" src="https://i.imgur.com/sHMp7i5.png" width="21px"/></a>
+<a href="https://discord.com/user/515958203838627856"><img align="left" src="https://i.imgur.com/g0RcHqU.png" width="21px"/></a>
 
 ## 🛠️ Currently working on
 
 
 ## 📖 Currently learning
-<p align="center">
+<p align="left">
   <a href="">
     <img src="https://skillicons.dev/icons?i=cpp,java,python,react" />
   </a>
