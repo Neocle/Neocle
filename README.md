@@ -4,6 +4,13 @@
 
 I’m a 17 years old french student. I am passionated by video games and programming and I’ve always been curious about how things really work, from creating games to developing software. My goal is to learn new things and getting better at what I do. 💪💪
 
+### 🔗 Connect with me:
+
+
+## 🛠️ Currently working on
+
+
+## 📖 Currently learning
 
 
 ## 📈 GitHub Stats 
