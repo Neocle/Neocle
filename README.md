@@ -19,8 +19,11 @@ I’m a 17 years old french student. I am passionated by video games and program
 <a href="https://discord.com/user/515958203838627856"><img align="left" src="https://i.imgur.com/g0RcHqU.png" width="21px"/></a>
 <br> 
 
+
 ## 🛠️ Currently working on
 
+- ???
+- ???
 
 ## 📖 Currently learning
 <p align="left">
