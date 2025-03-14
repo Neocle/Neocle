@@ -12,7 +12,7 @@ I’m a 17 years old french student. I am passionated by video games and program
 
 ## 📖 Currently learning
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=cpp,java,python,react" />
   </a>
 </p>
