@@ -22,8 +22,8 @@ I’m a 17 years old french student. I am passionated by video games and program
 
 ## 🛠️ Currently working on
 
-- ???
-- ???
+- LiteBansWeb, aiming to evolve into FlexBans in the future.
+- UnixMC Onboarding Discord Bot
 
 ## 📖 Currently learning
 <p align="left">
