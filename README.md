@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/followers/neocle?label=Followers" alt="neocle" />
   </a>
   <a href="https://github.com/Neocle">
-    <img src="https://img.shields.io/github/repositories/Neocle?label=Public%20Repos&color=orange" alt="Public Repos" />
+    <img src="https://img.shields.io/github/stars/Neocle&color=orange" alt="Public Repos" />
   </a>
 </p>
 
