@@ -16,7 +16,7 @@ I’m a 17 years old french student. I am passionated by video games and program
 ## 🔗 Connect with me:
 <a href="https://neocle.me"><img align="left" src="https://i.imgur.com/xF4Lwef.png" width="21px"/></a>
 <a href="https://instagram.com/lois.alr43"><img align="left" src="https://i.imgur.com/sHMp7i5.png" width="21px"/></a>
-<a href="https://discord.com/user/515958203838627856"><img align="left" src="https://i.imgur.com/g0RcHqU.png" width="21px"/></a>
+<a href="https://discord.com/users/515958203838627856"><img align="left" src="https://i.imgur.com/g0RcHqU.png" width="21px"/></a>
 <br> 
 
 
