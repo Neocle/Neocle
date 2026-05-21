@@ -16,7 +16,7 @@ I’m a 18 years old french student. I am passionated by video games and program
 ## 🔗 Connect with me:
 
 <a href="https://www.linkedin.com/in/loïs-alirol/" target="_blank">
-  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="24px" />
+  <img align="left" src="https://www.svgrepo.com/show/157006/linkedin.svg" width="24px" />
 </a>
 
 <a href="https://discord.com/users/515958203838627856" target="_blank">
