@@ -44,3 +44,4 @@ I’m a 18 years old french student. I am passionated by video games and program
 ## 📈 GitHub Stats 
 ![Globally](https://github-readme-stats-q0z0797j6-neocles-projects.vercel.app/api?username=Neocle&show_icons=true&theme=dark)
 ![Languages](https://github-readme-stats-q0z0797j6-neocles-projects.vercel.app/api/top-langs/?username=Neocle&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Neocle&theme=dark)
