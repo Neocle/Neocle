@@ -14,11 +14,20 @@
 I’m a 18 years old french student. I am passionated by video games and programming and I’ve always been curious about how things really work, from creating games to developing software. My goal is to learn new things and getting better at what I do. 💪💪
 
 ## 🔗 Connect with me:
-<a href="https://neocle.me"><img align="left" src="https://i.imgur.com/xF4Lwef.png" width="21px"/></a>
-<a href="https://instagram.com/lois.alr43"><img align="left" src="https://i.imgur.com/sHMp7i5.png" width="21px"/></a>
-<a href="https://discord.com/users/515958203838627856"><img align="left" src="https://i.imgur.com/g0RcHqU.png" width="21px"/></a>
-<br> 
 
+<a href="https://www.linkedin.com/in/loïs-alirol/" target="_blank">
+  <img align="left" src="https://cdn.simpleicons.org/linkedin/0A66C2" width="24px" />
+</a>
+
+<a href="https://discord.com/users/515958203838627856" target="_blank">
+  <img align="left" src="https://cdn.simpleicons.org/discord/5865F2" width="24px" />
+</a>
+
+<a href="mailto:lois.alirol@gmail" target="_blank">
+  <img align="left" src="https://cdn.simpleicons.org/gmail/EA4335" width="24px" />
+</a>
+
+<br>
 
 ## 🛠️ Currently working on
 
